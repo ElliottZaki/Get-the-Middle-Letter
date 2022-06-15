@@ -16,7 +16,7 @@ rspec --init<br>
 
 # How to run programme:
 On CML type: <br>
-cd leap_years <br>
+cd get-the-middle-letter <br>
 
 # How to run tests:
 On CML type:<br> 
