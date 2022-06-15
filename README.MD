@@ -1,5 +1,5 @@
 # Project title: 
-Get the Middle Letter(s) - Process review
+Get the Middle Letter(s) - Process review exercise.
 
 # Motivation:
 I have been tasked at creating a simple tool that will return the middle letter of a word. If the word's length is odd, return the middle letter. If the word's length is even, return the middle 2 letters.
@@ -10,7 +10,7 @@ I have been tasked at creating a simple tool that will return the middle letter 
 # Installation instructions:
 On CML type:<br> 
 brew install ruby<br>
-- current Ruby version (ruby-3.0.0)<br>
+current Ruby version as per last updated push(ruby-3.0.0)<br>
 gem install rspec<br>
 rspec --init<br>
 
